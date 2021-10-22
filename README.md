@@ -1,1 +1,1 @@
-# someet
+# Hi, I'm Someet Singh! 👋
