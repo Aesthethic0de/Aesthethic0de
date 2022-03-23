@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Someet Singh</h1>
-<h2 align="center">Looking for Fresher level job oppurtunities in field of ML and DL, salary can be negotiated</h2>
+<h2 align="center">Looking for Fresher level job opportunities in field of ML and DL, salary can be negotiated</h2>
 <h3 align="center">A data enthusiast, Pursuing Master's in Data Science, solving problems in creative ways accompanied by prioritizing and organizing tasks and culturing the importance of applying classical strategies to modern-day projects. Seeking a position that allows me to put my analytical, data-oriented skill set to use while also fostering my leadership and creativity. I’m looking for a career path in a dynamic and innovative culture.</h3>
 
 
