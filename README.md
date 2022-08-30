@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Someet Singh</h1>
-<h2 align="center">AI/ML engineer at audax labs</h2>
+<h2 align="center"></h2>
 <h3 align="center">A data enthusiast, Pursuing Master's in Data Science, solving problems in creative ways accompanied by prioritizing and organizing tasks and culturing the importance of applying classical strategies to modern-day projects. Seeking a position that allows me to put my analytical, data-oriented skill set to use while also fostering my leadership and creativity. I’m looking for a career path in a dynamic and innovative culture.</h3>
 <h2 align="center">Education - Btech in CSE (2019) CGPA - 6.67 & M.tech in Data Science (2022) CGPA - 9.26 </h2>
 
