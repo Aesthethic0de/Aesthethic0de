@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Someet Singh</h1>
 <h2 align="center"></h2>
 <h3 align="center">Meticulous and reliable Software Engineer (AI/ML) with a demonstrated track record of effectively
-managing diverse responsibilities and consistently delivering exceptional results. Expertise encompasses a
-wide range of skills including Python, OpenAI, LLM Models, Statistics, Machine Learning, Computer
-Vision, ELK, SQL, NoSQL, Docker, Kafka, Spark, Hadoop, Airflow, Conversational AI, and Monitoring
-Dashboard.</h3>
+                    managing diverse responsibilities and consistently delivering exceptional results. Expertise encompasses a
+                    wide range of skills including Python, OpenAI, LLM Models, Statistics, Machine Learning, Computer
+                    Vision, ELK, SQL, NoSQL, Docker, Kafka, Spark, Hadoop, Airflow, Conversational AI, and Monitoring
+                    Dashboard.</h3>
 <h2 align="center">Education - Btech in CSE (2019) CGPA - 6.67 & M.tech in Data Science (2022) CGPA - 9.26 </h2>
 
 <h3 align="left">Languages and Tools:</h3>
